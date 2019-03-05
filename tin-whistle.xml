@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<museScore>
+      <InstrumentGroup id="woodwinds">
+            <name>Woodwinds</name>
+            <Instrument id="c-tin-whistle">
+                  <longName>C Tin Whistle</longName>
+                  <shortName>C Tin Wh.</shortName>
+                  <description>6 hole Flageolet, metal construction, keys C and F</description>
+                  <musicXMLid>wind.flutes.whistle.tin.c</musicXMLid>
+                  <clef>G8va</clef>
+                  <barlineSpan>1</barlineSpan>
+                  <aPitchRange>72-96</aPitchRange>
+                  <pPitchRange>72-102</pPitchRange>
+                  <Channel>
+                        <program value="78"/> <!--Whistle-->
+                  </Channel>
+                  <genre>world</genre>
+            </Instrument>
+            <Instrument id="bflat-tin-whistle">
+                  <longName>B♭ Tin Whistle</longName>
+                  <shortName>B♭ Tin Wh.</shortName>
+                  <description>6 hole Flageolet, metal construction, keys B♭, Gm and Cm</description>
+                  <musicXMLid>wind.flutes.whistle.tin.bflat</musicXMLid>
+                  <clef>G8va</clef>
+                  <barlineSpan>1</barlineSpan>
+                  <aPitchRange>70-94</aPitchRange>
+                  <pPitchRange>70-100</pPitchRange>
+                  <Channel>
+                        <program value="78"/> <!--Whistle-->
+                  </Channel>
+                  <genre>world</genre>
+            </Instrument>
+            <Instrument id="d-tin-whistle">
+                  <longName>D Tin Whistle</longName>
+                  <shortName>D Tin Wh.</shortName>
+                  <description>6 hole Flageolet, metal construction, keys D and G</description>
+                  <musicXMLid>wind.flutes.whistle.tin.d</musicXMLid>
+                  <clef>G8va</clef>
+                  <barlineSpan>1</barlineSpan>
+                  <aPitchRange>74-98</aPitchRange>
+                  <pPitchRange>74-104</pPitchRange>
+                  <Channel>
+                        <program value="78"/> <!--Whistle-->
+                  </Channel>
+                  <genre>world</genre>
+            </Instrument>
+            <Instrument id="common-tin-whistle">
+                  <longName>Tin Whistle</longName>
+                  <shortName>Tin Wh.</shortName>
+                  <description>metal 6 hole Flageolet, most commonly tuned to D</description>
+                  <musicXMLid>wind.flutes.whistle.tin.common</musicXMLid>
+                  <clef>G8va</clef>
+                  <barlineSpan>1</barlineSpan>
+                  <aPitchRange>74-98</aPitchRange>
+                  <pPitchRange>74-104</pPitchRange>
+                  <Channel>
+                        <program value="78"/> <!--Whistle-->
+                  </Channel>
+                  <genre>world</genre>
+            </Instrument>
+            <Instrument id="eflat-tin-whistle">
+                  <longName>E♭ Tin Whistle</longName>
+                  <shortName>E♭ Tin Wh.</shortName>
+                  <description>6 hole Flageolet, metal construction, keys E♭, Cm and Fm</description>
+                  <musicXMLid>wind.flutes.whistle.tin.eflat</musicXMLid>
+                  <clef>G8va</clef>
+                  <barlineSpan>1</barlineSpan>
+                  <aPitchRange>71-95</aPitchRange>
+                  <pPitchRange>71-101</pPitchRange>
+                  <Channel>
+                        <program value="78"/> <!--Whistle-->
+                  </Channel>
+                  <genre>world</genre>
+            </Instrument>
+            <Instrument id="f-tin-whistle">
+                  <longName>F Tin Whistle</longName>
+                  <shortName>F Tin Wh.</shortName>
+                  <description>6 hole Flageolet, metal construction, keys F, Dm and Gm</description>
+                  <musicXMLid>wind.flutes.whistle.tin.f</musicXMLid>
+                  <clef>G8va</clef>
+                  <barlineSpan>1</barlineSpan>
+                  <aPitchRange>77-101</aPitchRange>
+                  <pPitchRange>77-107</pPitchRange>
+                  <Channel>
+                        <program value="78"/> <!--Whistle-->
+                  </Channel>
+                  <genre>world</genre>
+            </Instrument>
+      </InstrumentGroup>
+</museScore>
