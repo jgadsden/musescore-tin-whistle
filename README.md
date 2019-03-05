@@ -1,6 +1,6 @@
 # musescore-tin-whistle
 An extra instrument file for adding more tin whistle types to Musescore, it needs to be
-installed as an instrument extension using the MuseScore menu. IUse the same file for
+installed as an instrument extension using the MuseScore menu. Use the same file for
 both MuseScore-2 and MuseScore-3:
 
 MuseScore-2
@@ -18,3 +18,13 @@ MuseScore-3
 MuseScore wil now list more tin whistles types under 'World Music' 'Woodwinds'. Once the
 tin whistle staff is added to the score, then there is no need to keep this instrument
 file in the 'Instrument List 2' extension.
+
+The Tin Whistle, basically a metal 6 hole Flageolet, types are in order of physical size:
+* "F Tin Whistle" tuned to F, used for keys F, Dm and Gm (plus B♭)
+* "D Tin Whistle" tuned to D, used for keys D, G, Bm and Em
+* "C Tin Whistle" tuned to C, used for keys C, F, Am and Dm
+* "E♭ Tin Whistle" tuned to E♭, used for keys Cm and Fm (plus E♭ and A♭)
+* "B♭ Tin Whistle" tuned to B♭, used for keys Gm and Cm (plus B♭ and E♭)
+
+Tuning to D is by far the most common, so "Tin Whistle" is the same as "D Tin Whistle".
+
