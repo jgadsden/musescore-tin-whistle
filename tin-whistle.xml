@@ -86,5 +86,19 @@
                   </Channel>
                   <genre>world</genre>
             </Instrument>
+            <Instrument id="g-tin-whistle">
+                  <longName>G Tin Whistle</longName>
+                  <shortName>G Tin Wh.</shortName>
+                  <description>6 hole Flageolet, metal construction, keys G and C</description>
+                  <musicXMLid>wind.flutes.whistle.tin.g</musicXMLid>
+                  <clef>G8va</clef>
+                  <barlineSpan>1</barlineSpan>
+                  <aPitchRange>79-103</aPitchRange>
+                  <pPitchRange>79-109</pPitchRange>
+                  <Channel>
+                        <program value="78"/> <!--Whistle-->
+                  </Channel>
+                  <genre>world</genre>
+            </Instrument>
       </InstrumentGroup>
 </museScore>
