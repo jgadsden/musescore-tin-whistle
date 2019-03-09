@@ -19,7 +19,9 @@ MuseScore wil now list more tin whistles types under 'World Music' 'Woodwinds'. 
 tin whistle staff is added to the score, then there is no need to keep this instrument
 file in the 'Instrument List 2' extension.
 
-The Tin Whistle, basically a metal 6 hole Flageolet, types are in order of physical size:
+The Tin Whistle, which is a metal 6 hole Flageolet, comes in various tunings. These are
+listed in order of physical size:
+* "G Tin Whistle" tuned to G, used for keys G, C, Am and Em
 * "F Tin Whistle" tuned to F, used for keys F, Dm and Gm (plus B♭)
 * "D Tin Whistle" tuned to D, used for keys D, G, Bm and Em
 * "C Tin Whistle" tuned to C, used for keys C, F, Am and Dm
