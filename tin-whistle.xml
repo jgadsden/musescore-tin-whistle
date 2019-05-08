@@ -5,7 +5,7 @@
             <Instrument id="bflat-tin-whistle">
                   <longName>B♭ Tin Whistle</longName>
                   <shortName>B♭ Tin Wh.</shortName>
-                  <description>6 hole Flageolet, metal construction, keys B♭, Gm and Cm</description>
+                  <description>6 hole Flageolet, metal construction, keys B♭, Cm and E♭</description>
                   <musicXMLid>wind.flutes.whistle.tin.bflat</musicXMLid>
                   <clef>G8va</clef>
                   <barlineSpan>1</barlineSpan>
@@ -19,7 +19,7 @@
             <Instrument id="c-tin-whistle">
                   <longName>C Tin Whistle</longName>
                   <shortName>C Tin Wh.</shortName>
-                  <description>6 hole Flageolet, metal construction, keys C and F</description>
+                  <description>6 hole Flageolet, metal construction, keys C, Dm and F</description>
                   <musicXMLid>wind.flutes.whistle.tin.c</musicXMLid>
                   <clef>G8va</clef>
                   <barlineSpan>1</barlineSpan>
@@ -33,7 +33,7 @@
             <Instrument id="d-tin-whistle">
                   <longName>D Tin Whistle</longName>
                   <shortName>D Tin Wh.</shortName>
-                  <description>6 hole Flageolet, metal construction, keys D and G</description>
+                  <description>6 hole Flageolet, metal construction, keys D, Em and G</description>
                   <musicXMLid>wind.flutes.whistle.tin.d</musicXMLid>
                   <clef>G8va</clef>
                   <barlineSpan>1</barlineSpan>
@@ -61,7 +61,7 @@
             <Instrument id="eflat-tin-whistle">
                   <longName>E♭ Tin Whistle</longName>
                   <shortName>E♭ Tin Wh.</shortName>
-                  <description>6 hole Flageolet, metal construction, keys E♭, Cm and Fm</description>
+                  <description>6 hole Flageolet, metal construction, keys E♭, Fm and A♭</description>
                   <musicXMLid>wind.flutes.whistle.tin.eflat</musicXMLid>
                   <clef>G8va</clef>
                   <barlineSpan>1</barlineSpan>
@@ -75,7 +75,7 @@
             <Instrument id="f-tin-whistle">
                   <longName>F Tin Whistle</longName>
                   <shortName>F Tin Wh.</shortName>
-                  <description>6 hole Flageolet, metal construction, keys F, Dm and Gm</description>
+                  <description>6 hole Flageolet, metal construction, keys F, Gm and B♭</description>
                   <musicXMLid>wind.flutes.whistle.tin.f</musicXMLid>
                   <clef>G8va</clef>
                   <barlineSpan>1</barlineSpan>
@@ -89,7 +89,7 @@
             <Instrument id="g-tin-whistle">
                   <longName>G Tin Whistle</longName>
                   <shortName>G Tin Wh.</shortName>
-                  <description>6 hole Flageolet, metal construction, keys G and C</description>
+                  <description>6 hole Flageolet, metal construction, keys G, Am and C</description>
                   <musicXMLid>wind.flutes.whistle.tin.g</musicXMLid>
                   <clef>G8va</clef>
                   <barlineSpan>1</barlineSpan>
