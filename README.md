@@ -20,13 +20,12 @@ tin whistle staff is added to the score, then there is no need to keep this inst
 file in the 'Instrument List 2' extension.
 
 The Tin Whistle, which is a metal 6 hole Flageolet, comes in various tunings. These are
-listed in order of physical size:
-* "G Tin Whistle" tuned to G, used for keys G, C, Am and Em
-* "F Tin Whistle" tuned to F, used for keys F, Dm and Gm (plus B♭)
-* "D Tin Whistle" tuned to D, used for keys D, G, Bm and Em
-* "C Tin Whistle" tuned to C, used for keys C, F, Am and Dm
-* "E♭ Tin Whistle" tuned to E♭, used for keys Cm and Fm (plus E♭ and A♭)
-* "B♭ Tin Whistle" tuned to B♭, used for keys Gm and Cm (plus B♭ and E♭)
+listed in order of decreasing physical size:
+* "B♭ Tin Whistle" tuned to key B♭, also used for keys Cm and E♭
+* "C Tin Whistle" tuned to C, also for Dm and F
+* "D Tin Whistle" tuned to D, also for Em and G
+* "E♭ Tin Whistle" tuned to E♭, also for Fm and A♭
+* "F Tin Whistle" tuned to F, mainly used for Gm as F can be played on a C whistle
+* "G Tin Whistle" tuned to G, mainly used for Am as G can be played on a D whistle
 
 Tuning to D is by far the most common, so "Tin Whistle" is the same as "D Tin Whistle".
-
