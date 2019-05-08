@@ -2,20 +2,6 @@
 <museScore>
       <InstrumentGroup id="woodwinds">
             <name>Woodwinds</name>
-            <Instrument id="c-tin-whistle">
-                  <longName>C Tin Whistle</longName>
-                  <shortName>C Tin Wh.</shortName>
-                  <description>6 hole Flageolet, metal construction, keys C and F</description>
-                  <musicXMLid>wind.flutes.whistle.tin.c</musicXMLid>
-                  <clef>G8va</clef>
-                  <barlineSpan>1</barlineSpan>
-                  <aPitchRange>72-96</aPitchRange>
-                  <pPitchRange>72-102</pPitchRange>
-                  <Channel>
-                        <program value="78"/> <!--Whistle-->
-                  </Channel>
-                  <genre>world</genre>
-            </Instrument>
             <Instrument id="bflat-tin-whistle">
                   <longName>B♭ Tin Whistle</longName>
                   <shortName>B♭ Tin Wh.</shortName>
@@ -25,6 +11,20 @@
                   <barlineSpan>1</barlineSpan>
                   <aPitchRange>70-94</aPitchRange>
                   <pPitchRange>70-100</pPitchRange>
+                  <Channel>
+                        <program value="78"/> <!--Whistle-->
+                  </Channel>
+                  <genre>world</genre>
+            </Instrument>
+            <Instrument id="c-tin-whistle">
+                  <longName>C Tin Whistle</longName>
+                  <shortName>C Tin Wh.</shortName>
+                  <description>6 hole Flageolet, metal construction, keys C and F</description>
+                  <musicXMLid>wind.flutes.whistle.tin.c</musicXMLid>
+                  <clef>G8va</clef>
+                  <barlineSpan>1</barlineSpan>
+                  <aPitchRange>72-96</aPitchRange>
+                  <pPitchRange>72-102</pPitchRange>
                   <Channel>
                         <program value="78"/> <!--Whistle-->
                   </Channel>
@@ -65,8 +65,8 @@
                   <musicXMLid>wind.flutes.whistle.tin.eflat</musicXMLid>
                   <clef>G8va</clef>
                   <barlineSpan>1</barlineSpan>
-                  <aPitchRange>71-95</aPitchRange>
-                  <pPitchRange>71-101</pPitchRange>
+                  <aPitchRange>75-99</aPitchRange>
+                  <pPitchRange>75-105</pPitchRange>
                   <Channel>
                         <program value="78"/> <!--Whistle-->
                   </Channel>
