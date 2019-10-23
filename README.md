@@ -34,4 +34,4 @@ where MuseScore lists these extra instruments under 'World Music' 'Woodwinds'.
 Once a tin whistle staff is added to the score there is no need to keep the instrument
 file `tin-whistle.xml` in the 'Instrument List 2' extension.
 
-In the examples directory there is an example score showing all High Tin Whistle staves.
+The score `tin_whistle_range_test.mscz` is an example score showing all the High Tin Whistle staves.
